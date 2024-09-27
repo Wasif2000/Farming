@@ -1,10 +1,12 @@
 import React from 'react'
 
+import Contextes from './components/Contextes'
+import Effect from './components/Effect'
+
 const App = () => {
   return (
     <>
-    Here is main code of website.
-    another line
+    <Effect/>
     </>
   )
 }
